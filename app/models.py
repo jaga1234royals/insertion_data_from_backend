@@ -22,4 +22,3 @@ class AccessRecord(models.Model):
         return self.author
 
 
-
